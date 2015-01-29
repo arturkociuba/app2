@@ -10,6 +10,7 @@ namespace app2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("zmiana na branchu task1");
         }
     }
 }

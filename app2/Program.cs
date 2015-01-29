@@ -10,7 +10,8 @@ namespace app2
     {
         static void Main(string[] args)
         {
-            //zmina na master
+            //zmina na master po merdzu
+            Console.WriteLine("zmiana na branchu task1 jeszcze zmiana i jeszcze 3");
         }
     }
 }

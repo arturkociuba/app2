@@ -10,6 +10,7 @@ namespace app2
     {
         static void Main(string[] args)
         {
+            //zmina na master
         }
     }
 }
